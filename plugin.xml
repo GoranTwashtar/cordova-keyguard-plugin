@@ -25,7 +25,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="KeyGuard">
-                <param name="android-package" value="com.vladstirbu.cordova.KeyGuard" />
+                <param name="android-package" value="com.twashtar.cordova.KeyGuard" />
             </feature>
         </config-file>
 
